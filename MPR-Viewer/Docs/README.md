@@ -74,6 +74,12 @@ pip install PyQt5 matplotlib SimpleITK vtk numpy
 - Directory-based DICOM series are also supported.
 
 ---
+## Slice View
+
+The MRI scan can be viewed in multiple slices. Below is an example of a slice view:
+
+![Axial slice View](MPR-Viewer\Docs\Brain_Views\axial_slice.jpg)
+---
 
 ## Screenshots
 
