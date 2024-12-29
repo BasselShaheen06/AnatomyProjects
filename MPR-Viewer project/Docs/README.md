@@ -88,22 +88,16 @@ The MRI scan can be viewed in multiple slices. Below is an example of a slice vi
 ![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](MPR-Viewer\screenshots\Screenshot1.png)
 ---
 
-## Video
-![Video for the app running](https://drive.google.com/file/d/1GjUq7uFHEgca823Y2nstz5j_sLij3HVA/view?usp=sharing)
----
-
 ## Future Enhancements
 
 - Incorporate segmentation overlays for enhanced analysis.
 - Add support for additional medical imaging formats.
 - Improve volume rendering with advanced transfer functions.
-
 ---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](License) file for details.
-
 ---
 
 ## Contribution
