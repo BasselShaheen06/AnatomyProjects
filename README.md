@@ -93,7 +93,7 @@ pip install PyQt5 matplotlib SimpleITK vtk numpy
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](License) file for details.
 
 ---
 
