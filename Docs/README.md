@@ -82,6 +82,8 @@ pip install PyQt5 matplotlib SimpleITK vtk numpy
 ![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](screenshots/Screenshot1.png)
 
 ---
+[Watch the video](https://github.com/yourusername/yourrepo/blob/main/videos/your_video.mp4)
+---
 
 ## Future Enhancements
 
