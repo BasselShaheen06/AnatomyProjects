@@ -46,14 +46,14 @@ pip install PyQt5 matplotlib SimpleITK vtk numpy
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/mpr-viewer.git
+   git clone https://github.com/BasselShaheen06/AnatomyProjects.git
    cd mpr-viewer
    ```
 
 2. Run the application:
 
    ```bash
-   python MPR_Viewer1.py
+   python MPR-Viewer/src/main/MPR_Viewer.py
    ```
 
 3. Use the **Load MRI Scan** button to load NIfTI (`.nii` or `.nii.gz`) files into the viewer.
@@ -87,8 +87,6 @@ The MRI scan can be viewed in multiple slices. Below is an example of a slice vi
 
 ![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](MPR-Viewer\screenshots\Screenshot1.png)
 
----
-[Video for the app running](https://drive.google.com/file/d/1GjUq7uFHEgca823Y2nstz5j_sLij3HVA/view?usp=drive_link)
 ---
 
 ## Future Enhancements
