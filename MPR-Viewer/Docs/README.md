@@ -88,7 +88,7 @@ The MRI scan can be viewed in multiple slices. Below is an example of a slice vi
 ![Axial, Coronal, and Sagittal slices in synchronized crosshair mode in addition to the 3d volume](MPR-Viewer\screenshots\Screenshot1.png)
 
 ---
-[Watch the video](https://drive.google.com/file/d/1GjUq7uFHEgca823Y2nstz5j_sLij3HVA/view?usp=drive_link)
+[Video for the app running](https://drive.google.com/file/d/1GjUq7uFHEgca823Y2nstz5j_sLij3HVA/view?usp=drive_link)
 ---
 
 ## Future Enhancements
