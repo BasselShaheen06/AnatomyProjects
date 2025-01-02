@@ -5,6 +5,7 @@ __pycache__/
 
 # Virtual environment directories
 myenv/
+menv/
 # IDE or editor directories
 .vscode/
 .idea/
